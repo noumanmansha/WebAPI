@@ -1,2 +1,2 @@
 # WebAPI
-REST Web API using C# on .Net platform
+REST Web API development on .NET framework using C# programming language.
